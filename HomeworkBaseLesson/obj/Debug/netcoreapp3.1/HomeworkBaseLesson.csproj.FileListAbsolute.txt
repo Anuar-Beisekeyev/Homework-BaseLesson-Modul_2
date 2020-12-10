@@ -1,0 +1,26 @@
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\bin\Debug\netcoreapp3.1\HomeworkBaseLesson.exe
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\bin\Debug\netcoreapp3.1\HomeworkBaseLesson.deps.json
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\bin\Debug\netcoreapp3.1\HomeworkBaseLesson.runtimeconfig.json
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\bin\Debug\netcoreapp3.1\HomeworkBaseLesson.runtimeconfig.dev.json
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\bin\Debug\netcoreapp3.1\HomeworkBaseLesson.dll
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\bin\Debug\netcoreapp3.1\HomeworkBaseLesson.pdb
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.csprojAssemblyReference.cache
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.AssemblyInfoInputs.cache
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.AssemblyInfo.cs
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.csproj.CoreCompileInputs.cache
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.dll
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.pdb
+G:\Проекты visual studio\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.genruntimeconfig.cache
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\bin\Debug\netcoreapp3.1\HomeworkBaseLesson.exe
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\bin\Debug\netcoreapp3.1\HomeworkBaseLesson.deps.json
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\bin\Debug\netcoreapp3.1\HomeworkBaseLesson.runtimeconfig.json
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\bin\Debug\netcoreapp3.1\HomeworkBaseLesson.runtimeconfig.dev.json
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\bin\Debug\netcoreapp3.1\HomeworkBaseLesson.dll
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\bin\Debug\netcoreapp3.1\HomeworkBaseLesson.pdb
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.csprojAssemblyReference.cache
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.AssemblyInfo.cs
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.dll
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.pdb
+G:\Проекты\HomeworkBaseLesson\HomeworkBaseLesson\obj\Debug\netcoreapp3.1\HomeworkBaseLesson.genruntimeconfig.cache
